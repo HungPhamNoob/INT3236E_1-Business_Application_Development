@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: test-spring-boot-data-jpa
+
+management:
+    security:
+        enabled: false

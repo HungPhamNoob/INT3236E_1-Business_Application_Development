@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6aff4c81-83c8-4339-81c4-6812500dac49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/week_2/result/data-jpa/get _ findall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/result/data-jpa/get _ findbyid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/result/data-jpa/post.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/result/web-mvc/add course.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/result/web-mvc/home page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/result/web-mvc/update course (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/result/web-mvc/update course (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/SpringBootDataJpaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/controller/EmpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/modal/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/service/EmpService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/service/EmpServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/test/java/com/example/demo/SpringBootDataJpaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/SpringWebMvcApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/controller/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/model/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/repository/CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/service/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/service/CourseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/resources/templates/new_course.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/resources/templates/update_course.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/test/java/com/example/demo/SpringWebMvcApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/test/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/test/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/test/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/test/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/src/main/java/com/example/demo/Week2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/java/com/example/demo/Week2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_2/src/test/java/com/example/demo/Week2ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/test/java/com/example/demo/Week2ApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Hungpham711&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HungPhamNoob/INT3236E_1-Business_Application_Development.git&quot;,
+    &quot;accountId&quot;: &quot;55d6f6bf-5610-4995-af85-76f07a03bea2&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="32cNvRFpc1yPeSbIVeGAoxj46Xq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.DemoApplication.executor": "Run",
+    "Spring Boot.SpringMvcCrudWithExampleApplication.executor": "Run",
+    "Spring Boot.TestSpringBootDataJpaApplication.executor": "Run",
+    "Spring Boot.Week2Application.executor": "Run",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-23",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/YEAR 3/PTUD/homework/BusinessApplicationDevelopment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.5443038",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TestSpringBootDataJpaApplication">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="test1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.test1.Test1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringMvcCrudWithExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-boot-web-mvc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.SpringMvcCrudWithExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="test1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.test1.Test1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpringBootDataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="test1 (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.TestSpringBootDataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="week_2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.Week2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6aff4c81-83c8-4339-81c4-6812500dac49" name="Changes" comment="" />
+      <created>1757716130396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757716130396</updated>
+      <workItem from="1757716131466" duration="5628000" />
+      <workItem from="1757724265595" duration="580000" />
+      <workItem from="1757906879874" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
