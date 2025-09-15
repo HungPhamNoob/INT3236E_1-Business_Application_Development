@@ -4,67 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aff4c81-83c8-4339-81c4-6812500dac49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week_2/result/data-jpa/get _ findall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/result/data-jpa/get _ findbyid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/result/data-jpa/post.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/result/web-mvc/add course.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/result/web-mvc/home page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/result/web-mvc/update course (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/result/web-mvc/update course (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/SpringBootDataJpaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/controller/EmpController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/modal/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/repository/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/service/EmpService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/java/com/example/demo/service/EmpServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-data-jpa/src/test/java/com/example/demo/SpringBootDataJpaApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/SpringWebMvcApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/controller/CourseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/model/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/repository/CourseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/service/CourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/java/com/example/demo/service/CourseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/resources/templates/new_course.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/main/resources/templates/update_course.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_2/spring-boot-web-mvc/src/test/java/com/example/demo/SpringWebMvcApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/test/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/test/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/test/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/test/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/src/main/java/com/example/demo/Week2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/java/com/example/demo/Week2Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2/src/test/java/com/example/demo/Week2ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/test/java/com/example/demo/Week2ApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="6aff4c81-83c8-4339-81c4-6812500dac49" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -113,7 +60,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-23",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/YEAR 3/PTUD/homework/BusinessApplicationDevelopment",
+    "last_opened_file_path": "C:/YEAR 3/PTUD/homework/BusinessApplicationDevelopment/week_2/spring-boot-web-mvc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -136,7 +83,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.TestSpringBootDataJpaApplication">
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="test1" />
@@ -195,10 +142,24 @@
       <workItem from="1757716131466" duration="5628000" />
       <workItem from="1757724265595" duration="580000" />
       <workItem from="1757906879874" duration="109000" />
+      <workItem from="1757907130119" duration="2546000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1757907167712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757907167712</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
