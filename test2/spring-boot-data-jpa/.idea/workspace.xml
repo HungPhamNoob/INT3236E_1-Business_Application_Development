@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b67d1880-917b-47b3-8615-d3cfad85312f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/result/data-jpa/get _ findall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/result/data-jpa/get _ findbyid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/result/data-jpa/post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/result/web-mvc/add course.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/result/web-mvc/home page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/result/web-mvc/update course (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/result/web-mvc/update course (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/src/main/java/com/example/demo/SpringBootDataJpaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/src/main/java/com/example/demo/controller/EmpController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/src/main/java/com/example/demo/modal/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/src/main/java/com/example/demo/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/src/main/java/com/example/demo/service/EmpService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/src/main/java/com/example/demo/service/EmpServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-data-jpa/src/test/java/com/example/demo/SpringBootDataJpaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/main/java/com/example/demo/SpringWebMvcApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/main/java/com/example/demo/controller/CourseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/main/java/com/example/demo/model/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/main/java/com/example/demo/repository/CourseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/main/java/com/example/demo/service/CourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/main/java/com/example/demo/service/CourseServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/main/resources/templates/new_course.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/main/resources/templates/update_course.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_2/spring-boot-web-mvc/src/test/java/com/example/demo/SpringWebMvcApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Hungpham711&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HungPhamNoob/INT3236E_1-Business_Application_Development.git&quot;,
+    &quot;accountId&quot;: &quot;55d6f6bf-5610-4995-af85-76f07a03bea2&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="32cfaYkO522YgCDnUX1SSr5KQUf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP Request.generated-requests | #2.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.TestSpringBootDataJpaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/YEAR 3/PTUD/homework/BusinessApplicationDevelopment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="HTTP Request.generated-requests | #2">
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringBootDataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="test1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.SpringBootDataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b67d1880-917b-47b3-8615-d3cfad85312f" name="Changes" comment="" />
+      <created>1757724844879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757724844879</updated>
+      <workItem from="1757724846006" duration="6772000" />
+      <workItem from="1757905370286" duration="1000" />
+      <workItem from="1757905377410" duration="2334000" />
+      <workItem from="1757907995345" duration="498000" />
+      <workItem from="1757908551617" duration="285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
