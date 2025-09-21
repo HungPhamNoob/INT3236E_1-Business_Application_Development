@@ -4,7 +4,7 @@ This repository contains **weekly assignments** for the **Business Application D
 
 ## 📂 Structure
 - `week_2/` → Spring Boot JPA, MVC demo  
-- `week_4/` → Spring Boot Security demo  
+- `week_3/` → Spring Boot Security, Authorization demo  
 
 > 💡 **Recommendation:**  
 > Use **IntelliJ IDEA** 🧑‍💻 for the best experience when exploring or reviewing the code.  
