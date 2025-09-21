@@ -1,4 +1,4 @@
-# 🌱 INT3236E_1 - Business Application Development
+# 🌱 INT3236E_1 - Enterprise Application Development
 
 This repository contains **weekly assignments** for the **Business Application Development** course.  
 
