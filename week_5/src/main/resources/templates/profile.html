@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>User Profile</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; text-align: center; }
+        .btn {
+            background: #007bff; color: white; padding: 10px 20px;
+            text-decoration: none; border-radius: 5px; display: inline-block;
+            margin: 10px;
+        }
+        .btn-logout { background: #dc3545; }
+        .card { border: 1px solid #ddd; padding: 20px; margin: 20px auto; max-width: 400px; }
+    </style>
+</head>
+<body>
+<h1>User Profile</h1>
+
+<div th:if="${user}" class="card">
+    <h3>User Information</h3>
+    <p><strong>Name:</strong> <span th:text="${user.name}"></span></p>
+    <p><strong>Email:</strong> <span th:text="${user.email}"></span></p>
+</div>
+
+<div>
+    <a href="/api/" class="btn">Home</a>
+    <a href="/api/logout" class="btn btn-logout">Logout</a>
+</div>
+</body>
+</html>
