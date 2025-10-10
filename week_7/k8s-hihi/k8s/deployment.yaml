@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: k8s-hihi
+  name: k8s-hihi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: k8s-hihi
+  template:
+    metadata:
+      labels:
+        app: k8s-hihi
+    spec:
+      containers:
+      - image: hunghung711/k8s-hihi:latest  # ← DÙNG IMAGE TỪ DOCKER HUB
+        imagePullPolicy: Always             # ← LUÔN PULL IMAGE MỚI
+        name: k8s-hihi
+        ports:
+        - containerPort: 8080
+        livenessProbe:
+          httpGet:
+            path: /actuator/health
+            port: 8080
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /actuator/health
+            port: 8080
+          initialDelaySeconds: 5
+          periodSeconds: 5

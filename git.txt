@@ -1,0 +1,20 @@
+git init
+
+git config --global user.name "HungPhamNoob"
+
+git config --global user.email "hungvp711@gmail.com"
+
+git add .
+
+git remote add origin https://github.com/HungPhamNoob/INT3236E_1-Enterprise_Application_Development.git
+
+git remote set-url origin https://github.com/HungPhamNoob/INT3236E_1-Enterprise_Application_Development.git
+
+git commit -m "coin antex"
+
+git branch -M main
+
+git push origin main --force
+
+
+

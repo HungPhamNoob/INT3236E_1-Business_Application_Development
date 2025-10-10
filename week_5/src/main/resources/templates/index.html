@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>SSO Demo</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; text-align: center; }
+        .btn {
+            background: #28a745; color: white; padding: 15px 30px;
+            text-decoration: none; border-radius: 5px; display: inline-block;
+            margin: 20px; font-size: 18px;
+        }
+        .btn-logout { background: #dc3545; }
+    </style>
+</head>
+<body>
+<h1>🔐 SSO Demo</h1>
+
+<div th:if="${isLoggedIn}">
+    <p>You are logged in!</p>
+    <a href="/api/profile" class="btn">View Profile</a>
+    <a href="/api/logout" class="btn btn-logout">Logout</a>
+</div>
+
+<div th:unless="${isLoggedIn}">
+    <p>Please login to continue</p>
+    <a href="/api/oauth2/authorization/keycloak" class="btn">Login with Keycloak</a>
+</div>
+</body>
+</html>
